@@ -1,6 +1,10 @@
 ### Hi there 👋
 I am Alok Singh Thakur
 
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682">
+
+<div class="tenor-gif-embed" data-postid="17761682" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682">Coding Kira GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 - 🔭 I’m currently working on REACT
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Backend devlopement projects
