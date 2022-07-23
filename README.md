@@ -12,6 +12,10 @@ I am Alok Singh Thakur
 
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Alok3108M&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
+
+
 
 
 <!--
