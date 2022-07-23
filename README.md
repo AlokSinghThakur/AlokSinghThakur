@@ -11,8 +11,7 @@ I am Alok Singh Thakur
 - ⚡ Fun fact: I have a nickname "Chalokoina" meaning "let it be" 
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alok3108M&show_icons=true&theme=radical" width="400">
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=Alok3108M&show_icons=true&theme=radical" width="495" justify content="center">
 
 
 
