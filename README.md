@@ -9,16 +9,7 @@ I am Alok Singh Thakur
 - 💬 Ask me about Books,Novels,Poetry.
 - 📫 How to reach me: https://twitter.com/chalokoina08
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a nickname "Chalokoina" meaning "let it be" 
-
-
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=Alok3108M&show_icons=true&theme=radical" width="495">
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alok3108M&theme=dark)](https://git.io/streak-stats)
-
-
+- ⚡ Fun fact: I have a nickname "Chalokoina"
 
 
 
