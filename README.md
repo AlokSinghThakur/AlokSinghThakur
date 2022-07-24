@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Alok Singh Thakur
+I am Alok Singh Thakur😎
 
 
 - 🔭 I’m currently working on REACT
