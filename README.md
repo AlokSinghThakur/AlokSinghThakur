@@ -18,6 +18,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlokSinghThakur&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
+![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlokSinghThakur&show_icons=true&theme=radical)
 <!--
 **Alok3108M/Alok3108M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
