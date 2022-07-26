@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a nickname "Chalokoina"
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlokSinghThakur&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Alok3108M/Alok3108M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
