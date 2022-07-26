@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/youtube/youtube-icon.svg"/>
-</a>
-
 <b>I am Alok Singh Thakur😎</b>
 
 
