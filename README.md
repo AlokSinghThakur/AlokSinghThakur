@@ -20,6 +20,8 @@
 
 ![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlokSinghThakur&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlokSinghThakur)](https://github.com/AlokSinghThakur/github-readme-stats)
+
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Alok3108M/Alok3108M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
