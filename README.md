@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on REACT
 - 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on Backend devlopement projects
+- 👯 I’m looking to collaborate on Web devlopement projects
 - 🤔 I’m looking for help with Full Time Opportunities
 - 💬 Ask me about Books,Novels,Poetry.
 - 📫 How to reach me: https://twitter.com/chalokoina08
