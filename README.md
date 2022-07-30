@@ -7,14 +7,14 @@
 <b>I am Alok Singh Thakur😎</b>
 
 
-- 🔭 I’m currently working on REACT
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on Web devlopement projects
-- 🤔 I’m looking for help with Full Time Opportunities
+- 🔭 I’m currently working on REACT.
+- 🌱 I’m currently learning Node.js.
+- 👯 I’m looking to collaborate on Web devlopement projects.
+- 🤔 I’m looking for help with Full Time Opportunities.
 - 💬 Ask me about Books,Novels,Poetry.
-- 📫 How to reach me: https://twitter.com/chalokoina08
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a nickname "Chalokoina"
+- 📫 How to reach me: https://twitter.com/chalokoina08.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I have a nickname "Chalokoina".
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlokSinghThakur&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
