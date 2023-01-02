@@ -7,10 +7,10 @@
 <b>I am Alok Singh Thakur😎</b>
 
 
-- 🔭 I’m currently working on REACT.
-- 🌱 I’m currently learning Node.js.
-- 👯 I’m looking to collaborate on Web devlopement projects.
-- 🤔 I’m looking for help with Full Time Opportunities.
+- 🔭 I’m currently working on Flutter.
+- 🌱 I’m currently learning State Management in FLutter.
+- 👯 I’m looking to collaborate on App devlopement projects.
+- 🤔 I’m looking for help with Full Time Opportunities in App Developement.
 - 💬 Ask me about Books,Novels,Poetry.
 - 📫 How to reach me: https://twitter.com/chalokoina08.
 - 😄 Pronouns: He/Him.
