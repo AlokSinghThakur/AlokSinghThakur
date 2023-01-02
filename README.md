@@ -1,11 +1,4 @@
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 <b>I am Alok Singh Thakur😎</b>
-
 
 - 🔭 I’m currently working on Flutter.
 - 🌱 I’m currently learning State Management in FLutter.
