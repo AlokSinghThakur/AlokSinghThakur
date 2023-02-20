@@ -1,9 +1,9 @@
 <b>I am Alok Singh Thakur😎</b>
 
-- 🔭 I’m currently working on Flutter.
-- 🌱 I’m currently learning State Management in FLutter.
-- 👯 I’m looking to collaborate on App devlopement projects.
-- 🤔 I’m looking for help with Full Time Opportunities in App Developement.
+- 🔭 I’m currently working on JavaScript.
+- 🌱 I’m currently learning Backend Development using Node.
+- 👯 I’m looking to collaborate on Full Stack devlopement projects.
+- 🤔 I’m looking for help with Full Time Opportunities in Full Stack Developement.
 - 💬 Ask me about Books,Novels,Poetry.
 - 📫 How to reach me: https://twitter.com/chalokoina08.
 - 😄 Pronouns: He/Him.
