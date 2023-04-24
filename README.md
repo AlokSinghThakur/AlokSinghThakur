@@ -1,7 +1,7 @@
 <b>I am Alok Singh Thakur😎</b>
 
 - 🔭 I’m currently working on JavaScript.
-- 🌱 I’m currently learning Backend Development using Node MYSQl.
+- 🌱 I’m currently learning Backend Development using Node MYSQL.
 - 👯 I’m looking to collaborate on Full Stack devlopement projects.
 - 🤔 I’m looking for help with Full Time Opportunities in Full Stack Developement.
 - 💬 Ask me about Books,Novels,Poetry.
