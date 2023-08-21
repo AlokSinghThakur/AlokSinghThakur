@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Microservice implementation.
 - 👯 I’m looking to collaborate on Full Stack devlopement projects.
 - 🤔 I’m looking for help with Full Time Opportunities in Full Stack Developement.
-- 💬 Ask me about Books,Novels,Poetry.
+- 💬 Ask me about Books, Novels, Poetry, Yoga.
 - 📫 How to reach me: https://twitter.com/chalokoina08.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I have a nickname "Chalokoina".
