@@ -1,7 +1,7 @@
 <b>I am Alok Singh Thakur😎</b>
 
-- 🔭 I’m currently working on TypeScript.
-- 🌱 I’m currently learning Microservice implementation.
+- 🔭 I’m currently working on Design Patterns.
+- 🌱 I’m currently learning System Design implementation.
 - 👯 I’m looking to collaborate on Full Stack devlopement projects.
 - 🤔 I’m looking for help with Full Time Opportunities in Full Stack Developement.
 - 💬 Ask me about Books,Novels,Poetry.
